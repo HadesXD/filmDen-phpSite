@@ -4,7 +4,8 @@ Currently I'm thinking of making it a movie website, similar to IMDb. <br/>
 Currently it's in the early stage of development, the very early. But in the future I do wish to make it better. <br/>
 
 <b>Using:</b>
-- languages: HTML5 and CSS3
+- markup language: HTML5
+- style sheet language: CSS3
 - IDE: Atom
 
 <b>To Do:</b>
@@ -12,3 +13,4 @@ Currently it's in the early stage of development, the very early. But in the fut
 - add the first PHP file
 - plan out the design
 - add more and more files
+- learn JavaScript(?)
