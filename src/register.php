@@ -1,4 +1,4 @@
-<?php 
+<?php
     include_once 'utils/database.php';
     include_once 'utils/session.php';
  ?>
@@ -24,7 +24,8 @@
       </label>
       <input type="password" name="passwordConfirm" required="required" placeholder="Confirm Password"/>
       <input type="submit" name="register" value="Register"/>
-      <div>Already have an account? Hoe</div>
+      <div>Already have an account?</div>
+      <a href="login">Login!</a>
     </form>
   </body>
 </html>
